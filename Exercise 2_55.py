@@ -1,5 +1,7 @@
 #2.55
 
+# Geia sou Katerina!!!!
+
 x=input("Diabase:")
 y=input("diabase:")
 z=x%y
