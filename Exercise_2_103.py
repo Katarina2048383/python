@@ -1,5 +1,7 @@
-#2.103
-megethos=raw_input("megethos royxwn:")
+# Exercise 2.103
+
+megethos=raw_input("Megethos royxwn: ")
+
 if megethos=="S":
     print"Small"
 elif megethos=="M":
@@ -7,4 +9,4 @@ elif megethos=="M":
 elif megethos=="L":
     print"Large"
 else:
-    print "mi epitrepomeno megethos"
+    print "mi epitrepto megethos"
