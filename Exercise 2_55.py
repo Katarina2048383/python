@@ -1,10 +1,10 @@
-#2.55
+# Exercise 2.55
 
-# Geia sou Katerina!!!!
+x=input("Diabase: ")
+y=input("Diabase: ")
 
-x=input("Diabase:")
-y=input("diabase:")
 z=x%y
+
 if z!=0:
     x=x+1
 else:
