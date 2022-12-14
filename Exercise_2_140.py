@@ -1,8 +1,8 @@
 # Exercise 2.140
 
-x=int(input("akeraio arithmo:")
+x=int(input("akeraio arithmo:"))
       
-if x>0
+if x>0:
     if x%3==0:
        print"thetikos-artios"
     else:
