@@ -1,11 +1,11 @@
 # Exercise 2.140
 
-x=int(input("akeraio arithmo:"))
+x=int(input("Enter a integer number: "))
       
 if x>0:
     if x%2==0:
-       print"thetikos-artios"
+       print"Positive-Even"
     else:
-       print"thetikos-peittos"
+       print"Positive-Odd"
 else:
-    print"mi thetikos"
+    print"Negative integer number"
